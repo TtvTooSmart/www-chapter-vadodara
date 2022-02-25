@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Veer Shah](mailto:veer.shah@owasp.org)
+* [Karandev Chauhan](mailto:karandev.chauhan@owasp.org)
