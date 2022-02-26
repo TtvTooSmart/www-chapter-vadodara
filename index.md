@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Vadodara
 tags: example-tag
 region: Asia
+country: India
 meetup-group:
 
 ---
