@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Vadodara
-tags: example-tag
+tags: BDQ
 region: Asia
 country: India
 meetup-group:
